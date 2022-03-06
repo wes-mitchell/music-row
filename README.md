@@ -1,7 +1,7 @@
 # Music Row 
 
 ## Project Description
-This was an exercise I started with the basic idea of utilizing factory functions to generate new objects prompted by Nashville Software School Cohort 55 curriculum. The general idea was to get more acquainted and build muscle memory building factory functions better understand them.
+This was an exercise I started with the basic idea of utilizing factory functions to generate new objects prompted by Nashville Software School Cohort 55 curriculum. The general idea was to get more acquainted and build muscle memory building factory functions to better understand them.
 
 As a stretch goal I took the factory function and populated the DOM as we were doing in class most of the week I took this exercise on. It helped me get a much better understanding of how to use Javascript to build HTML in your index file. 
 

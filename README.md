@@ -14,8 +14,9 @@ The lightning exercises were done on a separate javascript file to keep from obs
 
 Doctor's name
 Specialty (Oncologist, pediatrician, etc...)
-Address of practice
-Lightning Exercise 2: Write a factory function that creates an object that represents a pet. The function should accept two arguments.
+Address of practice<br>
+
+###### Lightning Exercise 2: Write a factory function that creates an object that represents a pet. The function should accept two arguments.
 
 Pet name
 Pet breed
